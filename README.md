@@ -1,4 +1,4 @@
-# Job Site Calculator
+# Construction Calculator
 
 A construction calculator built with React and Vite. It does feet-inch-fraction math with automatic conversions, and has stair, rafter, concrete, board-foot and drawing-scale tools.
 

@@ -22,7 +22,7 @@ export default function App() {
   return (
     <div className="wrap">
       <header>
-        <h1>Job Site <span>Calculator</span></h1>
+        <h1>Construction <span>Calculator</span></h1>
         <p className="sub">
           Feet-inch-fraction math with automatic conversions, plus stair, rafter, concrete, board-foot, and scale
           tools. Every length field accepts the same notation as the keypad.
